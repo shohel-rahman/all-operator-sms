@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "teletalk.additional.operator.active",
+    "type": "java.lang.Boolean",
+    "description": "A description for 'teletalk.additional.operator.active'"
+  },
+  {
+    "name": "teletalk.operator.active",
+    "type": "java.lang.Boolean",
+    "description": "A description for 'teletalk.operator.active'"
+  },
+  {
+    "name": "sms.user.name",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.user.name'"
+  },
+  {
+    "name": "sms.user.password",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.user.password'"
+  },
+  {
+    "name": "sms.vendor.chunk.size",
+    "type": "java.lang.Integer",
+    "description": "A description for 'sms.vendor.chunk.size'"
+  },
+  {
+    "name": "sms.vendor.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sms.vendor.url'"
+  },
+  {
+    "name": "teletalk.additional.operators",
+    "type": "java.lang.String",
+    "description": "A description for 'teletalk.additional.operators'"
+  }
+]}
