@@ -22,6 +22,6 @@ operators while handling the complexity of vendor-specific API implementations.
 - RESTful API integration
 - Database persistence (Oracle)
 - Scheduled tasks for status polling
-- Comprehensive logging and monitoring
+- Comprehensive logging(Prometheus) and monitoring(Grafana)
 
 This application serves as a robust middleware solution for organizations requiring reliable SMS delivery across multiple carrier networks with full tracking capabilities.
